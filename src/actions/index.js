@@ -7,7 +7,7 @@ export const FETCHING_FAILURE = 'FETCHING_FAILURE'
 export const ADDING_SMURF = 'ADDING_SMURF'
 export const DISPLAY_ERROR = 'DISPLAY_ERROR'
 
-
+//Hello my name is Brandon
 
 export const fetchSmurfs = () => (dispatch) => {
   dispatch({ type: FETCHING_START })
